@@ -1,0 +1,275 @@
+a{
+    text-decoration: none;
+}
+
+.container-1{
+    width:95vw;
+    height:100vh;
+    background-size:cover;
+    display: flex;
+}
+.navbar{
+    width:100vw;
+    height:100px;
+}
+.food-munch{
+    width:70px;
+    height:80px;
+}
+#navItem1{
+    color:#323f4b;
+    font-family:"roboto";
+}
+#navItem2{
+    color:#323f4b;
+    font-family:"roboto";
+}
+#navItem3{
+    color:#323f4b;
+    font-family:"roboto";
+}
+#navItem4{
+    color:#323f4b;
+    font-family:"roboto";
+}
+.header{
+  font-family:"roboto";
+  font-weight:bold;
+}
+.banner-section-bg-container{
+    background-image:url("https://img.restaurantguru.com/r9f1-Munch-Parktown-dishes.jpg");
+    height:100vh;
+    background-size:cover;
+}
+.banner-heading{
+    font-family:"roboto";
+    font-size:40px;
+    font-weight:bold;
+    color:white;
+}
+.banner-caption{
+    font-family:"roboto";
+    font-size:22px;
+    font-weight:300;
+    color:white;
+}
+.custom-button{
+    color:white;
+    width:130px;
+    height:40px;
+    border-radius:8px;
+    font-family:"roboto";
+    background-color:#A34B18;
+    border-width:0;
+}
+.custom-button:hover{
+    border:2px solid;
+}
+.custom-outline-button{
+    color:#A34B18;
+    border-color:#A34B18;
+    background-color:transparent;
+    border-width:1px;
+    border-style :solid;
+    font-family:"roboto";
+    border-radius:8px;
+    width:130px;
+    height:40px;
+}
+.custom-outline-button:hover{
+    border:2px solid;
+}
+.wcu-section{
+    background-color:#f9fbfe;
+}
+.wcu-section-heading{
+color:#183b56;
+font-family:"roboto";
+font-size:33px;
+font-weight:700;
+}
+.wcu-section-description{
+    color:#5a7184;
+    font-family:"roboto";
+    font-size:20px;
+
+}
+.wcu-card{
+    text-align:center;
+    background-color:white;
+    border-style:solid;
+    border-width:1px;
+    border-color:#e5eaf4;
+    border-radius:16px;
+}
+.wcu-card-title{
+    color:#323f4b;
+    font-family:"roboto";
+    font-size:30px;
+    font-weight:500;
+}
+.wcu-card-description{
+    color:#7b8794;
+    font-family:"roboto";
+    font-size:20px;
+}
+
+.offers{
+    font-style:italic;
+    font-weight:600;
+    color:#323f4b;
+}
+.main-section-2{
+    color:#183b56;
+    font-family:"roboto";
+    font-size:28px;
+    font-weight:700;
+}
+.ems-section{
+    background-color:white;
+}
+.ems-section-image{
+    width:218px;
+    height:170px;
+    border-radius:10px;
+}
+.ems-section-h2{
+    font-family:"roboto";
+    font-size:30px;
+}
+.ems-section-link{
+    font-family:"roboto";
+    font-size:20px;
+}
+.dp-section{
+    background-color:#f9fbfe;
+}
+dp-section-1{
+    background-color:#f9fbfe;
+}
+.dp-section-image{
+  width:340px;
+  margin-left:15px;
+}
+.dp-section-h1{
+    color:#183b56;
+    font-weight:700;
+    font-family:"roboto";
+    font-size:30px;
+}
+.dp-section-p{
+    color:#183b56;
+    font-family:"roboto";
+    font-size:20px;
+}
+.dp-section-button{
+    border-color:#d0b200;
+    border-radius:10px;
+    color:white;
+    background-color:#d0b200;
+    width:130px;
+    height:45px;
+    margin-right:10px;
+}
+.dp-section-1-h1{
+  color:#183b56;
+  font-family:"roboto";
+  font-size:30px;
+  font-weight:700;
+}
+.dp-section-1-p{
+    color:#183b56;
+    font-family:"roboto";
+    font-size:20px;
+}
+dp-section-image-1{
+    width:340px;
+}
+.dp-section-2-image{
+    width:350px;
+    height:300px;
+    margin:15px;
+}
+.dp-section-2{
+  background-color:#d0b2001a;
+}
+.dp-section-2-h1{
+  color:#183b56;
+  font-family:"roboto";
+  font-size:30px;
+  font-weight:700;
+}
+.dp-section-2-p{
+    color:#183b56;
+    font-family:"roboto";
+    font-size:20px;
+}
+.redeem-button{
+    border-color:#d0b200;
+    border-radius:10px;
+    color:white;
+    background-color:#d0b200;
+    margin: 100px;
+    width:130px;
+    height:45px;
+    
+}
+.container-1{
+    width:100vw;
+    height:50vh;
+}
+.container-2{
+    width:100vw;
+    height:50vh;
+}
+.container-3{
+    width:100vw;
+    height:50vh;
+}
+.fs-section{
+    background-color:white;
+}
+.fs-heading{
+    font-family:"roboto";
+    font-weight:700;
+    font-size:33px;
+    
+    color:#183b56;
+}
+.icon{
+    background-color:light-grey;
+    width:60px;
+    height:60px;
+    border-radius:40px;
+    margin: 5px;
+    padding: 2px;
+    border-radius: 5px;
+
+}
+.icon-image{
+    height:50px;
+    width:50px;
+}
+.icon:hover{
+    border: 2px solid black;
+}
+.section{
+    background-color:#0d2436;
+
+}
+.food-munch-logo{
+    height:100px;
+    width:100px;
+}
+.fs-section-mail-id{
+    color:#959ead;
+    font-family:"roboto";
+    font-weight:bold;
+    font-size:22px;
+    margin-top:20px;
+}
+.fs-section-address{
+    color:#959ead;
+    font-family:"roboto";
+    font-size:18px;
+}
